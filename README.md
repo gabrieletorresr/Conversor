@@ -34,5 +34,7 @@ Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para obt
 
 # Autores
 [Gabriele]
-Contato
-Para obter mais informações ou esclarecimentos, entre em contato com [Seu Email].**
+
+# Contato
+Para obter mais informações ou esclarecimentos, entre em contato com [gabrieletr3@gmail.com
+].
