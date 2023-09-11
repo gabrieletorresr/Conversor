@@ -22,15 +22,14 @@ conversorMoedas/
 principal/
   - Principal.java
 # Exemplos de Uso
-Conversão de Reais para Dólares.
-Conversão de Euros para Reais.
-Conversão de Bitcoin para Reais.
-...
-# Contribuição
-Se você deseja contribuir para este projeto, sinta-se à vontade para enviar pull requests. No entanto, entre em contato com a equipe do Programa ONE para obter orientações específicas sobre como contribuir.
-
+Conversão de Reais para Dólares
+Conversão de Euros para Reais
+Conversão de Bitcoin para Reais
+Conversão de Libras Esterlinas a Reais
+Conversão de Peso argentino a  Reais
+Conversão de Peso Chileno a Reais
 # Licença
-Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para obter mais informações.
+Este projeto é distribuído sob a licença MIT. 
 
 # Autores
 [Gabriele]
