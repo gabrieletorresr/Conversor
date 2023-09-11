@@ -1,4 +1,4 @@
-**# Conversor de Moedas e Bitcoin 
+# Conversor de Moedas e Bitcoin 
 Este é um projeto de conversor de moedas que permite converter entre várias moedas e Bitcoin. O projeto é parte do Programa ONE e inclui funcionalidades para converter entre Reais (BRL), Dólares (USD), Euros (EUR), Libras Esterlinas (GBP), Pesos Argentinos (ARS), Pesos Chilenos (CLP) e Bitcoin (BTC).
 
 # Instruções de Uso
